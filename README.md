@@ -29,9 +29,6 @@ An intelligent, adaptive, and multimodal virtual nutrition assistant powered by 
 - **NLP Libraries**: `transformers`, `nltk`, `spacy`
 - **Image Processing**: `OpenCV`, `PIL` (optional)
 
----
 
-## 📦 Installation & Setup
 
-```bash
 
